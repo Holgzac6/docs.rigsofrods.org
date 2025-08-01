@@ -2793,7 +2793,7 @@ Specials: Limits do not apply for **mode:sequential**. In this case the options 
 
 -   `x-rotation` - Rotate around the x-axis, in some cases special rules apply here see below (gimbal lock)
 -   `y-rotation` - Rotate around the y-axis, in some cases special rules apply here see below (gimbal lock)
--   `y-rotation` - Rotate around the y-axis, in some cases special rules apply here see below (gimbal lock)
+-   `z-rotation` - Rotate around the z-axis, in some cases special rules apply here see below (gimbal lock)
 -   `x-offset` - Offset along the x-axis
 -   `y-offset` - Offset along the y-axis
 -   `z-offset` - Offset along the z-axis
